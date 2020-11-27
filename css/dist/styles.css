@@ -1,0 +1,18 @@
+h3 {
+  text-align: center;
+}
+
+form {
+  color: #FCF7FF;
+  border-radius: 5px;
+  border: 1px rgba(0, 0, 0, 0.5) solid;
+  background-color: #2E2F2F;
+  overflow: hidden;
+  padding: 10px;
+}
+
+.reportes {
+  margin: 50px 10px;
+  border-top: 1px solid black;
+  padding-top: 50px;
+}
